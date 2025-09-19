@@ -193,6 +193,6 @@ Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
 
 ## 📧 Contato
 
-[Seu Nome] - [@seu_twitter] - seu.email@exemplo.com
+[Pablo Carvalho do Nascimento dos Santos] - [@pablocarvalho0] - pablocnsantos2@gmail.com
 
 Link do Projeto: [https://github.com/seu-usuario/gymlog-ai](https://github.com/seu-usuario/gymlog-ai)
