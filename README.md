@@ -193,10 +193,9 @@ Distribuído sob a Licença MIT. Veja `LICENSE.txt` para mais informações.
 
 ## 📧 Contato
 
-**Pablo Carvalho do Nascimento dos Santos**
-
-- **Email:** pablocnsantos2@gmail.com
-- **LinkedIn:** [Pablo Carvalho](https://www.linkedin.com/in/pablo-carvalho-pcns8896/)
-- **Projeto:** [https://github.com/pablocarvalho0/gymlog-ai](https://github.com/pablocarvalho0/gymlog-ai)
-
-
+| Plataforma | Contato                                                                  |
+| :--------- | :----------------------------------------------------------------------- |
+| 👤 **Nome** | Pablo Carvalho do Nascimento dos Santos                                  |
+| 📧 **Email** | `pablocnsantos2@gmail.com`                                               |
+| 💼 **LinkedIn** | [Pablo Carvalho](https://www.linkedin.com/in/pablo-carvalho-pcns8896/)              |
+| 💻 **Projeto** | [Repositório no GitHub](https://github.com/pablocarvalho0/gymlog-ai)       |
